@@ -1,0 +1,34 @@
+{
+  "attacks": [
+    {
+      "name": "Failover and Auto-Recovery Test",
+      "steps": [
+        {
+          "target": "A",
+          "action": "disable",
+          "duration": 5
+        },
+        {
+          "target": "B",
+          "action": "enable",
+          "duration": 8
+        },
+        {
+          "target": "B",
+          "action": "disable",
+          "duration": 5
+        },
+        {
+          "target": "B",
+          "action": "enable",
+          "duration": 5
+        },
+        {
+          "target": "A",
+          "action": "enable",
+          "duration": 5
+        }
+      ]
+    }
+  ]
+}

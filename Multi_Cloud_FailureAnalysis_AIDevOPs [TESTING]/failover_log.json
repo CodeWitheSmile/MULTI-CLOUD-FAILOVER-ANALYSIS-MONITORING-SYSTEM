@@ -1,0 +1,4748 @@
+[
+  {
+    "timestamp": "2025-11-10 18:42:52",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 54.08310005441308
+  },
+  {
+    "timestamp": "2025-11-10 18:42:54",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.535899929702282
+  },
+  {
+    "timestamp": "2025-11-10 18:42:56",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 3.6785000702366233
+  },
+  {
+    "timestamp": "2025-11-10 18:42:58",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 17.909899936057627
+  },
+  {
+    "timestamp": "2025-11-10 18:43:00",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 19.099900033324957
+  },
+  {
+    "timestamp": "2025-11-10 18:43:02",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 4.172899993136525
+  },
+  {
+    "timestamp": "2025-11-10 18:43:04",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.267500041052699
+  },
+  {
+    "timestamp": "2025-11-10 18:43:06",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.424999964423478
+  },
+  {
+    "timestamp": "2025-11-10 18:43:08",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.67729998473078
+  },
+  {
+    "timestamp": "2025-11-10 18:43:10",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.341599989682436
+  },
+  {
+    "timestamp": "2025-11-10 18:43:12",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.313700017519295
+  },
+  {
+    "timestamp": "2025-11-10 18:43:14",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 10.896999971009791
+  },
+  {
+    "timestamp": "2025-11-10 18:43:16",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 12.679100036621094
+  },
+  {
+    "timestamp": "2025-11-10 18:43:18",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.80609991773963
+  },
+  {
+    "timestamp": "2025-11-10 18:43:20",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 19.412900088354945
+  },
+  {
+    "timestamp": "2025-11-10 18:43:22",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 13.241199892945588
+  },
+  {
+    "timestamp": "2025-11-10 18:43:24",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.62400001846254
+  },
+  {
+    "timestamp": "2025-11-10 18:43:26",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 533.346000011079
+  },
+  {
+    "timestamp": "2025-11-10 18:43:29",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 551.4992999378592
+  },
+  {
+    "timestamp": "2025-11-10 18:43:32",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 558.4043000126258
+  },
+  {
+    "timestamp": "2025-11-10 18:43:34",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 10.647399933077395
+  },
+  {
+    "timestamp": "2025-11-10 18:43:36",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 22.347899968735874
+  },
+  {
+    "timestamp": "2025-11-10 18:43:38",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 8.36779992096126
+  },
+  {
+    "timestamp": "2025-11-10 18:43:40",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 3.3925999887287617
+  },
+  {
+    "timestamp": "2025-11-10 18:43:42",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 19.720199983567
+  },
+  {
+    "timestamp": "2025-11-10 18:43:44",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.198200061917305
+  },
+  {
+    "timestamp": "2025-11-10 18:43:46",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 9.554699994623661
+  },
+  {
+    "timestamp": "2025-11-10 18:43:48",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 10.890199919231236
+  },
+  {
+    "timestamp": "2025-11-10 18:43:50",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.966500008478761
+  },
+  {
+    "timestamp": "2025-11-10 18:43:52",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.063000054098666
+  },
+  {
+    "timestamp": "2025-11-10 18:43:54",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 4.550899961031973
+  },
+  {
+    "timestamp": "2025-11-10 18:43:56",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 6.599500076845288
+  },
+  {
+    "timestamp": "2025-11-10 18:43:58",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 13.095299946144223
+  },
+  {
+    "timestamp": "2025-11-10 18:44:00",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.45220001693815
+  },
+  {
+    "timestamp": "2025-11-10 18:44:02",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.686799974180758
+  },
+  {
+    "timestamp": "2025-11-10 18:44:04",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.88379991799593
+  },
+  {
+    "timestamp": "2025-11-10 18:44:06",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 19.563499954529107
+  },
+  {
+    "timestamp": "2025-11-10 18:44:08",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.76760006416589
+  },
+  {
+    "timestamp": "2025-11-10 18:44:10",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 6.92220008932054
+  },
+  {
+    "timestamp": "2025-11-10 18:44:12",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 17.784200026653707
+  },
+  {
+    "timestamp": "2025-11-10 18:44:14",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.303999969735742
+  },
+  {
+    "timestamp": "2025-11-10 18:44:16",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.971600004471838
+  },
+  {
+    "timestamp": "2025-11-10 18:44:18",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.405000044964254
+  },
+  {
+    "timestamp": "2025-11-10 18:44:20",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.032100051641464
+  },
+  {
+    "timestamp": "2025-11-10 19:04:27",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.644099938683212
+  },
+  {
+    "timestamp": "2025-11-10 19:04:29",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.838599923066795
+  },
+  {
+    "timestamp": "2025-11-10 19:04:31",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.1625999407842755
+  },
+  {
+    "timestamp": "2025-11-10 19:04:33",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.56899994891137
+  },
+  {
+    "timestamp": "2025-11-10 19:04:35",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.654600078240037
+  },
+  {
+    "timestamp": "2025-11-10 19:04:37",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 18.185000051744282
+  },
+  {
+    "timestamp": "2025-11-10 19:04:39",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.871200064197183
+  },
+  {
+    "timestamp": "2025-11-10 19:04:41",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 42.67440002877265
+  },
+  {
+    "timestamp": "2025-11-10 19:04:43",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.048600004054606
+  },
+  {
+    "timestamp": "2025-11-10 19:04:45",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 10.532199987210333
+  },
+  {
+    "timestamp": "2025-11-10 19:04:47",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.112300106324255
+  },
+  {
+    "timestamp": "2025-11-10 19:04:49",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 10.255399974994361
+  },
+  {
+    "timestamp": "2025-11-10 19:04:51",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 22.65359996818006
+  },
+  {
+    "timestamp": "2025-11-10 19:04:53",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 8.64809995982796
+  },
+  {
+    "timestamp": "2025-11-10 19:04:55",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.49929997883737
+  },
+  {
+    "timestamp": "2025-11-10 19:04:57",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.516099990345538
+  },
+  {
+    "timestamp": "2025-11-10 19:04:59",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.49080007802695
+  },
+  {
+    "timestamp": "2025-11-10 19:05:01",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.267199922353029
+  },
+  {
+    "timestamp": "2025-11-10 19:05:03",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 22.294200025498867
+  },
+  {
+    "timestamp": "2025-11-10 19:05:05",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.07729995623231
+  },
+  {
+    "timestamp": "2025-11-10 19:05:07",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.14990001730621
+  },
+  {
+    "timestamp": "2025-11-10 19:05:10",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 832.9350999556482
+  },
+  {
+    "timestamp": "2025-11-10 19:05:13",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 829.9527999479324
+  },
+  {
+    "timestamp": "2025-11-10 19:05:16",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 847.8832000400871
+  },
+  {
+    "timestamp": "2025-11-10 19:05:18",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 816.9526000274345
+  },
+  {
+    "timestamp": "2025-11-10 19:05:21",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 831.2386000761762
+  },
+  {
+    "timestamp": "2025-11-10 19:05:24",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 833.8353999424726
+  },
+  {
+    "timestamp": "2025-11-10 19:05:26",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 8.06409993674606
+  },
+  {
+    "timestamp": "2025-11-10 19:05:28",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 17.25470006931573
+  },
+  {
+    "timestamp": "2025-11-10 19:05:30",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 18.187499954365194
+  },
+  {
+    "timestamp": "2025-11-10 19:05:32",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.365700090304017
+  },
+  {
+    "timestamp": "2025-11-10 19:05:34",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 18.19249999243766
+  },
+  {
+    "timestamp": "2025-11-10 19:05:36",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.375899935141206
+  },
+  {
+    "timestamp": "2025-11-10 19:05:38",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 23.051099968142807
+  },
+  {
+    "timestamp": "2025-11-10 19:05:40",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 18.04310001898557
+  },
+  {
+    "timestamp": "2025-11-10 19:05:42",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.405100014992058
+  },
+  {
+    "timestamp": "2025-11-10 19:05:44",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 3.836599993519485
+  },
+  {
+    "timestamp": "2025-11-10 19:05:46",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 17.942499951459467
+  },
+  {
+    "timestamp": "2025-11-10 19:05:48",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.107799908146262
+  },
+  {
+    "timestamp": "2025-11-10 19:05:50",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 22.480000043287873
+  },
+  {
+    "timestamp": "2025-11-10 19:05:52",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.334400003775954
+  },
+  {
+    "timestamp": "2025-11-10 19:05:54",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 3.7935998989269137
+  },
+  {
+    "timestamp": "2025-11-10 19:05:56",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.240699953399599
+  },
+  {
+    "timestamp": "2025-11-10 19:05:58",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.839099943637848
+  },
+  {
+    "timestamp": "2025-11-10 19:06:00",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.944399992004037
+  },
+  {
+    "timestamp": "2025-11-10 19:06:02",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 6.9275000132620335
+  },
+  {
+    "timestamp": "2025-11-10 19:06:05",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 33.30310003366321
+  },
+  {
+    "timestamp": "2025-11-10 19:06:07",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.805300028063357
+  },
+  {
+    "timestamp": "2025-11-10 19:06:09",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.171999895945191
+  },
+  {
+    "timestamp": "2025-11-10 19:06:11",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.031100070104003
+  },
+  {
+    "timestamp": "2025-11-10 19:06:13",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 3.5830000415444374
+  },
+  {
+    "timestamp": "2025-11-10 19:06:15",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.4671999318525195
+  },
+  {
+    "timestamp": "2025-11-10 19:06:17",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.292699966579676
+  },
+  {
+    "timestamp": "2025-11-10 19:06:19",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.227000081911683
+  },
+  {
+    "timestamp": "2025-11-10 19:06:21",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 17.991999979130924
+  },
+  {
+    "timestamp": "2025-11-10 19:06:23",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 3.599800053052604
+  },
+  {
+    "timestamp": "2025-11-10 19:06:25",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 3.527799970470369
+  },
+  {
+    "timestamp": "2025-11-10 19:06:27",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.590900016017258
+  },
+  {
+    "timestamp": "2025-11-10 19:06:29",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.437700056470931
+  },
+  {
+    "timestamp": "2025-11-10 19:06:31",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 20.19860001746565
+  },
+  {
+    "timestamp": "2025-11-10 19:06:33",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.052800036035478
+  },
+  {
+    "timestamp": "2025-11-10 19:06:35",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.392700063064694
+  },
+  {
+    "timestamp": "2025-11-10 19:18:24",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 103.2761000096798
+  },
+  {
+    "timestamp": "2025-11-10 19:18:26",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 13.240200001746416
+  },
+  {
+    "timestamp": "2025-11-10 19:18:28",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.323199939914048
+  },
+  {
+    "timestamp": "2025-11-10 19:18:30",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.307799998670816
+  },
+  {
+    "timestamp": "2025-11-10 19:18:32",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.016299990937114
+  },
+  {
+    "timestamp": "2025-11-10 19:18:34",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 10.733100003562868
+  },
+  {
+    "timestamp": "2025-11-10 19:18:36",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 18.97350000217557
+  },
+  {
+    "timestamp": "2025-11-10 19:18:38",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 3.9680999470874667
+  },
+  {
+    "timestamp": "2025-11-10 19:18:40",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.605600054375827
+  },
+  {
+    "timestamp": "2025-11-10 19:18:42",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 11.043300037272274
+  },
+  {
+    "timestamp": "2025-11-10 19:18:44",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 6.7547999788075686
+  },
+  {
+    "timestamp": "2025-11-10 19:18:47",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.602999918162823
+  },
+  {
+    "timestamp": "2025-11-10 19:18:49",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.182300090789795
+  },
+  {
+    "timestamp": "2025-11-10 19:18:51",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.05810004286468
+  },
+  {
+    "timestamp": "2025-11-10 19:18:53",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 52.538099931553006
+  },
+  {
+    "timestamp": "2025-11-10 19:18:57",
+    "active_server": "Primary",
+    "status": "error",
+    "message": "Failed: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024642D4AB90>, 'Connection to 127.0.0.1 timed out. (connect timeout=2)'))",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-10 19:18:57",
+    "active_server": "Switch",
+    "status": "failover",
+    "message": "Switching to Backup",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-10 19:18:59",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud B', 'status': 'running'}",
+    "latency_ms": 18.278099945746362
+  },
+  {
+    "timestamp": "2025-11-10 19:19:03",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud B', 'status': 'running'}",
+    "latency_ms": 18.155899946577847
+  },
+  {
+    "timestamp": "2025-11-10 19:19:07",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud B', 'status': 'running'}",
+    "latency_ms": 18.449799972586334
+  },
+  {
+    "timestamp": "2025-11-10 19:19:11",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud B', 'status': 'running'}",
+    "latency_ms": 10.96089999191463
+  },
+  {
+    "timestamp": "2025-11-10 19:19:15",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud B', 'status': 'running'}",
+    "latency_ms": 21.885699941776693
+  },
+  {
+    "timestamp": "2025-11-10 19:19:19",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud B', 'status': 'running'}",
+    "latency_ms": 18.441300024278462
+  },
+  {
+    "timestamp": "2025-11-10 19:19:23",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud B', 'status': 'running'}",
+    "latency_ms": 8.049899945035577
+  },
+  {
+    "timestamp": "2025-11-10 19:19:27",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud B', 'status': 'running'}",
+    "latency_ms": 8.914700010791421
+  },
+  {
+    "timestamp": "2025-11-10 19:21:12",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 14.603500021621585
+  },
+  {
+    "timestamp": "2025-11-10 19:21:14",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 25.917199905961752
+  },
+  {
+    "timestamp": "2025-11-10 19:21:16",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.204100106842816
+  },
+  {
+    "timestamp": "2025-11-10 19:21:18",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.702700095251203
+  },
+  {
+    "timestamp": "2025-11-10 19:21:20",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 5.652099964208901
+  },
+  {
+    "timestamp": "2025-11-10 19:21:22",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 5.865899962373078
+  },
+  {
+    "timestamp": "2025-11-10 19:21:24",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 8.232099935412407
+  },
+  {
+    "timestamp": "2025-11-10 19:21:26",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.23590000718832
+  },
+  {
+    "timestamp": "2025-11-10 19:21:28",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 28.961699921637774
+  },
+  {
+    "timestamp": "2025-11-10 19:21:30",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.916599951684475
+  },
+  {
+    "timestamp": "2025-11-10 19:21:32",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 8.514499990269542
+  },
+  {
+    "timestamp": "2025-11-10 19:21:34",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.974900072440505
+  },
+  {
+    "timestamp": "2025-11-10 19:21:36",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 10.771100060082972
+  },
+  {
+    "timestamp": "2025-11-10 19:21:38",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 24.80840007774532
+  },
+  {
+    "timestamp": "2025-11-10 19:21:40",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 13.247399940155447
+  },
+  {
+    "timestamp": "2025-11-10 19:21:42",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 18.526600091718137
+  },
+  {
+    "timestamp": "2025-11-10 19:21:44",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 6.800699979066849
+  },
+  {
+    "timestamp": "2025-11-10 19:21:46",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.84439992904663
+  },
+  {
+    "timestamp": "2025-11-10 19:21:48",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 17.92460004799068
+  },
+  {
+    "timestamp": "2025-11-10 19:21:50",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.023600012995303
+  },
+  {
+    "timestamp": "2025-11-10 19:21:52",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.269400021992624
+  },
+  {
+    "timestamp": "2025-11-10 19:21:54",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 19.319399958476424
+  },
+  {
+    "timestamp": "2025-11-10 19:21:56",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.091299979947507
+  },
+  {
+    "timestamp": "2025-11-10 19:21:58",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.054900025948882
+  },
+  {
+    "timestamp": "2025-11-10 19:22:00",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.766899921000004
+  },
+  {
+    "timestamp": "2025-11-10 19:22:02",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 11.047299951314926
+  },
+  {
+    "timestamp": "2025-11-10 19:22:04",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 11.309500085189939
+  },
+  {
+    "timestamp": "2025-11-10 19:22:07",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 17.431700020097196
+  },
+  {
+    "timestamp": "2025-11-10 19:22:09",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 19.802400027401745
+  },
+  {
+    "timestamp": "2025-11-10 19:22:11",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 11.606500018388033
+  },
+  {
+    "timestamp": "2025-11-10 19:22:13",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.282200071960688
+  },
+  {
+    "timestamp": "2025-11-10 19:22:15",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 5.545500083826482
+  },
+  {
+    "timestamp": "2025-11-10 19:22:17",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.100500023923814
+  },
+  {
+    "timestamp": "2025-11-10 19:22:19",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 18.23980000335723
+  },
+  {
+    "timestamp": "2025-11-10 19:22:21",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.007600045762956
+  },
+  {
+    "timestamp": "2025-11-10 19:22:23",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 10.504200006835163
+  },
+  {
+    "timestamp": "2025-11-10 19:22:25",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.261700070463121
+  },
+  {
+    "timestamp": "2025-11-10 19:22:27",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 10.603999951854348
+  },
+  {
+    "timestamp": "2025-11-10 19:22:29",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.111899960786104
+  },
+  {
+    "timestamp": "2025-11-10 19:22:31",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 8.14739998895675
+  },
+  {
+    "timestamp": "2025-11-10 19:22:33",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 8.372999960556626
+  },
+  {
+    "timestamp": "2025-11-10 19:22:35",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 17.931099981069565
+  },
+  {
+    "timestamp": "2025-11-10 19:22:37",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.58520007226616
+  },
+  {
+    "timestamp": "2025-11-10 19:22:39",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.175600039772689
+  },
+  {
+    "timestamp": "2025-11-10 19:22:41",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 35.76030000112951
+  },
+  {
+    "timestamp": "2025-11-10 19:22:43",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 8.023300091736019
+  },
+  {
+    "timestamp": "2025-11-10 19:22:45",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 10.869699995964766
+  },
+  {
+    "timestamp": "2025-11-10 19:22:47",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 22.555099916644394
+  },
+  {
+    "timestamp": "2025-11-10 19:22:49",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.964999997057021
+  },
+  {
+    "timestamp": "2025-11-10 19:22:51",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.48680008109659
+  },
+  {
+    "timestamp": "2025-11-10 19:22:53",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 6.99030002579093
+  },
+  {
+    "timestamp": "2025-11-10 19:22:55",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.89010001346469
+  },
+  {
+    "timestamp": "2025-11-10 19:22:57",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.670899969525635
+  },
+  {
+    "timestamp": "2025-11-10 19:22:59",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.7133000595495105
+  },
+  {
+    "timestamp": "2025-11-10 19:23:01",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.171799977310002
+  },
+  {
+    "timestamp": "2025-11-10 19:23:03",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 33.19810004904866
+  },
+  {
+    "timestamp": "2025-11-10 19:23:05",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.535699987784028
+  },
+  {
+    "timestamp": "2025-11-10 19:23:07",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 20.928099984303117
+  },
+  {
+    "timestamp": "2025-11-10 19:23:09",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 20.979000022634864
+  },
+  {
+    "timestamp": "2025-11-10 19:23:11",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.412699982523918
+  },
+  {
+    "timestamp": "2025-11-10 19:23:13",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 17.769600031897426
+  },
+  {
+    "timestamp": "2025-11-10 19:48:29",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 60.611800057813525
+  },
+  {
+    "timestamp": "2025-11-10 19:48:31",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.029199939221144
+  },
+  {
+    "timestamp": "2025-11-10 19:48:33",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 5.713699967600405
+  },
+  {
+    "timestamp": "2025-11-10 19:48:35",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 6.978600053116679
+  },
+  {
+    "timestamp": "2025-11-10 19:48:37",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.394699935801327
+  },
+  {
+    "timestamp": "2025-11-10 19:48:39",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 18.25940003618598
+  },
+  {
+    "timestamp": "2025-11-10 19:48:41",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.05950005352497
+  },
+  {
+    "timestamp": "2025-11-10 19:48:43",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 13.078000047244132
+  },
+  {
+    "timestamp": "2025-11-10 19:48:45",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 22.360699949786067
+  },
+  {
+    "timestamp": "2025-11-10 19:48:47",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 5.9920999919995666
+  },
+  {
+    "timestamp": "2025-11-10 19:48:49",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 12.13140005711466
+  },
+  {
+    "timestamp": "2025-11-10 19:48:51",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.21659997664392
+  },
+  {
+    "timestamp": "2025-11-10 19:48:53",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.349599941633642
+  },
+  {
+    "timestamp": "2025-11-10 19:48:55",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 7.3370999889448285
+  },
+  {
+    "timestamp": "2025-11-10 19:48:57",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 10.64990006852895
+  },
+  {
+    "timestamp": "2025-11-10 19:48:59",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.583100034855306
+  },
+  {
+    "timestamp": "2025-11-10 19:49:01",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.836400100961328
+  },
+  {
+    "timestamp": "2025-11-10 19:49:03",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 10.414500022307038
+  },
+  {
+    "timestamp": "2025-11-10 19:49:05",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 17.48119993135333
+  },
+  {
+    "timestamp": "2025-11-10 19:49:07",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 18.116299994289875
+  },
+  {
+    "timestamp": "2025-11-10 19:49:09",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.888900035060942
+  },
+  {
+    "timestamp": "2025-11-10 19:49:11",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.279399981722236
+  },
+  {
+    "timestamp": "2025-11-10 19:49:13",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 6.027500028721988
+  },
+  {
+    "timestamp": "2025-11-10 19:49:15",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 20.599900046363473
+  },
+  {
+    "timestamp": "2025-11-10 19:49:17",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 23.252999992109835
+  },
+  {
+    "timestamp": "2025-11-10 19:49:19",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.895700017921627
+  },
+  {
+    "timestamp": "2025-11-10 19:49:21",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 8.54579999577254
+  },
+  {
+    "timestamp": "2025-11-10 19:49:23",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 12.764299986883998
+  },
+  {
+    "timestamp": "2025-11-10 19:49:25",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 4.356000106781721
+  },
+  {
+    "timestamp": "2025-11-10 19:49:27",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'error': 'service disabled'}",
+    "latency_ms": 21.36749995406717
+  },
+  {
+    "timestamp": "2025-11-10 19:49:29",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.607800028286874
+  },
+  {
+    "timestamp": "2025-11-10 19:49:32",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 4.354099975898862
+  },
+  {
+    "timestamp": "2025-11-10 19:49:34",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.4327999856323
+  },
+  {
+    "timestamp": "2025-11-10 19:49:36",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.54260000679642
+  },
+  {
+    "timestamp": "2025-11-10 19:49:38",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.098399974405766
+  },
+  {
+    "timestamp": "2025-11-10 19:49:40",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 4.670700058341026
+  },
+  {
+    "timestamp": "2025-11-10 20:09:21",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 47.745599993504584
+  },
+  {
+    "timestamp": "2025-11-10 20:09:23",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 19.473700085654855
+  },
+  {
+    "timestamp": "2025-11-10 20:09:25",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 10.915599996224046
+  },
+  {
+    "timestamp": "2025-11-10 20:09:27",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.17950000986457
+  },
+  {
+    "timestamp": "2025-11-10 20:09:29",
+    "active_server": "Primary",
+    "status": "error",
+    "message": "Unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.692800019867718
+  },
+  {
+    "timestamp": "2025-11-10 20:09:29",
+    "active_server": "Backup",
+    "status": "failover",
+    "message": "Switched from Primary to Backup",
+    "latency_ms": 12.237600050866604
+  },
+  {
+    "timestamp": "2025-11-10 20:09:29",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.237600050866604
+  },
+  {
+    "timestamp": "2025-11-10 20:09:31",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.697800057940185
+  },
+  {
+    "timestamp": "2025-11-10 20:09:33",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 11.283500003628433
+  },
+  {
+    "timestamp": "2025-11-10 20:09:35",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.377799949608743
+  },
+  {
+    "timestamp": "2025-11-10 20:09:37",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 20.92629997059703
+  },
+  {
+    "timestamp": "2025-11-10 20:09:39",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 22.790699964389205
+  },
+  {
+    "timestamp": "2025-11-10 20:09:41",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 3.815899952314794
+  },
+  {
+    "timestamp": "2025-11-10 20:09:43",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.2380000706762075
+  },
+  {
+    "timestamp": "2025-11-10 20:09:45",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 9.028200060129166
+  },
+  {
+    "timestamp": "2025-11-10 20:09:47",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.086199941113591
+  },
+  {
+    "timestamp": "2025-11-10 20:09:49",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 18.516700016334653
+  },
+  {
+    "timestamp": "2025-11-10 20:09:51",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.390199927613139
+  },
+  {
+    "timestamp": "2025-11-10 20:09:53",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.858200020156801
+  },
+  {
+    "timestamp": "2025-11-10 20:09:55",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.621499942615628
+  },
+  {
+    "timestamp": "2025-11-10 20:09:57",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 15.57490008417517
+  },
+  {
+    "timestamp": "2025-11-10 20:09:57",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down. Primary error: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; Backup error: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-10 20:09:59",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.762199966236949
+  },
+  {
+    "timestamp": "2025-11-10 20:09:59",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down. Primary error: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; Backup error: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-10 20:10:01",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 20.743900095112622
+  },
+  {
+    "timestamp": "2025-11-10 20:10:01",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down. Primary error: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; Backup error: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-10 20:10:03",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 21.02390001527965
+  },
+  {
+    "timestamp": "2025-11-10 20:10:05",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 21.964099956676364
+  },
+  {
+    "timestamp": "2025-11-10 20:10:08",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 20.674800034612417
+  },
+  {
+    "timestamp": "2025-11-10 20:10:10",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.431199980899692
+  },
+  {
+    "timestamp": "2025-11-10 20:10:12",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.251800037920475
+  },
+  {
+    "timestamp": "2025-11-10 20:10:14",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 17.46980007737875
+  },
+  {
+    "timestamp": "2025-11-10 20:10:16",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 18.09769996907562
+  },
+  {
+    "timestamp": "2025-11-10 20:10:18",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.040699943900108
+  },
+  {
+    "timestamp": "2025-11-10 20:10:20",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 18.327100086025894
+  },
+  {
+    "timestamp": "2025-11-10 20:10:22",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 21.19610004592687
+  },
+  {
+    "timestamp": "2025-11-10 20:10:24",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.316399947740138
+  },
+  {
+    "timestamp": "2025-11-10 20:10:26",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 17.870799987576902
+  },
+  {
+    "timestamp": "2025-11-10 20:10:28",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 17.76600000448525
+  },
+  {
+    "timestamp": "2025-11-10 20:10:30",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 21.222000010311604
+  },
+  {
+    "timestamp": "2025-11-10 20:10:32",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.445499999448657
+  },
+  {
+    "timestamp": "2025-11-10 20:10:34",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.063800008036196
+  },
+  {
+    "timestamp": "2025-11-10 20:10:36",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.637000082060695
+  },
+  {
+    "timestamp": "2025-11-10 20:10:38",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.392200059257448
+  },
+  {
+    "timestamp": "2025-11-10 20:10:40",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 18.126299954019487
+  },
+  {
+    "timestamp": "2025-11-10 20:10:42",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.165599963627756
+  },
+  {
+    "timestamp": "2025-11-10 20:10:44",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.134899984113872
+  },
+  {
+    "timestamp": "2025-11-10 20:10:46",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 10.622399975545704
+  },
+  {
+    "timestamp": "2025-11-10 20:10:48",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.530999951995909
+  },
+  {
+    "timestamp": "2025-11-10 20:10:50",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 10.675199911929667
+  },
+  {
+    "timestamp": "2025-11-10 20:10:52",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.252500017173588
+  },
+  {
+    "timestamp": "2025-11-10 20:10:54",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 17.934400006197393
+  },
+  {
+    "timestamp": "2025-11-10 20:10:56",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 20.753300050273538
+  },
+  {
+    "timestamp": "2025-11-10 20:10:58",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 9.811900090426207
+  },
+  {
+    "timestamp": "2025-11-10 20:11:00",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.621800061315298
+  },
+  {
+    "timestamp": "2025-11-10 20:11:02",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.209600070491433
+  },
+  {
+    "timestamp": "2025-11-10 20:11:04",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 10.488600004464388
+  },
+  {
+    "timestamp": "2025-11-10 20:11:06",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 10.95949998125434
+  },
+  {
+    "timestamp": "2025-11-10 20:11:08",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 20.116199972108006
+  },
+  {
+    "timestamp": "2025-11-10 20:11:10",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 3.8105000276118517
+  },
+  {
+    "timestamp": "2025-11-10 20:26:48",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.41520008444786
+  },
+  {
+    "timestamp": "2025-11-10 20:26:50",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 5.272599984891713
+  },
+  {
+    "timestamp": "2025-11-10 20:26:52",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 10.39189996663481
+  },
+  {
+    "timestamp": "2025-11-10 20:26:54",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 5.273199989460409
+  },
+  {
+    "timestamp": "2025-11-10 20:26:56",
+    "active_server": "Primary",
+    "status": "error",
+    "message": "Unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.155900006182492
+  },
+  {
+    "timestamp": "2025-11-10 20:26:56",
+    "active_server": "Backup",
+    "status": "failover",
+    "message": "Switch from Primary to Backup",
+    "latency_ms": 11.946800048463047
+  },
+  {
+    "timestamp": "2025-11-10 20:26:56",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 11.946800048463047
+  },
+  {
+    "timestamp": "2025-11-10 20:26:58",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 21.448899991810322
+  },
+  {
+    "timestamp": "2025-11-10 20:26:59",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 9.199700085446239
+  },
+  {
+    "timestamp": "2025-11-10 20:27:01",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 6.565899937413633
+  },
+  {
+    "timestamp": "2025-11-10 20:27:01",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 3.666299977339804
+  },
+  {
+    "timestamp": "2025-11-10 20:27:03",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 21.03860001079738
+  },
+  {
+    "timestamp": "2025-11-10 20:27:03",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 16.26509998459369
+  },
+  {
+    "timestamp": "2025-11-10 20:27:05",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 20.735399913974106
+  },
+  {
+    "timestamp": "2025-11-10 20:27:05",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.662699997425079
+  },
+  {
+    "timestamp": "2025-11-10 20:27:07",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 18.044100026600063
+  },
+  {
+    "timestamp": "2025-11-10 20:27:07",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 3.548600012436509
+  },
+  {
+    "timestamp": "2025-11-10 20:27:09",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.267899927683175
+  },
+  {
+    "timestamp": "2025-11-10 20:27:09",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 17.737400019541383
+  },
+  {
+    "timestamp": "2025-11-10 20:27:11",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.645000005140901
+  },
+  {
+    "timestamp": "2025-11-10 20:27:11",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 17.64320000074804
+  },
+  {
+    "timestamp": "2025-11-10 20:27:13",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 4.77380002848804
+  },
+  {
+    "timestamp": "2025-11-10 20:27:13",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.351199953816831
+  },
+  {
+    "timestamp": "2025-11-10 20:27:15",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.850700015202165
+  },
+  {
+    "timestamp": "2025-11-10 20:27:15",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.309400015510619
+  },
+  {
+    "timestamp": "2025-11-10 20:27:17",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.28779998421669
+  },
+  {
+    "timestamp": "2025-11-10 20:27:17",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 3.7198999198153615
+  },
+  {
+    "timestamp": "2025-11-10 20:27:19",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 20.981199922971427
+  },
+  {
+    "timestamp": "2025-11-10 20:27:19",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 16.24420005828142
+  },
+  {
+    "timestamp": "2025-11-10 20:27:21",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 20.835299976170063
+  },
+  {
+    "timestamp": "2025-11-10 20:27:21",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 17.89609994739294
+  },
+  {
+    "timestamp": "2025-11-10 20:27:23",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 21.10090001951903
+  },
+  {
+    "timestamp": "2025-11-10 20:27:23",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 16.788800014182925
+  },
+  {
+    "timestamp": "2025-11-10 20:27:25",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.290399982593954
+  },
+  {
+    "timestamp": "2025-11-10 20:27:25",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.301699973642826
+  },
+  {
+    "timestamp": "2025-11-10 20:27:25",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-10 20:27:27",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 8.154299925081432
+  },
+  {
+    "timestamp": "2025-11-10 20:27:27",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 3.6379999946802855
+  },
+  {
+    "timestamp": "2025-11-10 20:27:27",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-10 20:27:29",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.649000057019293
+  },
+  {
+    "timestamp": "2025-11-10 20:27:29",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.053400045260787
+  },
+  {
+    "timestamp": "2025-11-10 20:27:31",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 12.51220004633069
+  },
+  {
+    "timestamp": "2025-11-10 20:27:31",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 3.9129999931901693
+  },
+  {
+    "timestamp": "2025-11-10 20:27:33",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 18.658899934962392
+  },
+  {
+    "timestamp": "2025-11-10 20:27:33",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.139899974688888
+  },
+  {
+    "timestamp": "2025-11-10 20:27:36",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 21.478099981322885
+  },
+  {
+    "timestamp": "2025-11-10 20:27:36",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.816899917088449
+  },
+  {
+    "timestamp": "2025-11-10 20:27:38",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.570400019176304
+  },
+  {
+    "timestamp": "2025-11-10 20:27:38",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.018499981611967
+  },
+  {
+    "timestamp": "2025-11-10 20:27:40",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 10.775299975648522
+  },
+  {
+    "timestamp": "2025-11-10 20:27:40",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.725800012238324
+  },
+  {
+    "timestamp": "2025-11-10 20:27:42",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.006099934689701
+  },
+  {
+    "timestamp": "2025-11-10 20:27:42",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 6.163599900901318
+  },
+  {
+    "timestamp": "2025-11-10 20:27:44",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 21.467700018547475
+  },
+  {
+    "timestamp": "2025-11-10 20:27:44",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 3.643200034275651
+  },
+  {
+    "timestamp": "2025-11-10 20:27:46",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 3.9999999571591616
+  },
+  {
+    "timestamp": "2025-11-10 20:27:46",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.0784000884741545
+  },
+  {
+    "timestamp": "2025-11-10 20:27:48",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.406500051729381
+  },
+  {
+    "timestamp": "2025-11-10 20:27:48",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.836500040255487
+  },
+  {
+    "timestamp": "2025-11-10 20:27:50",
+    "active_server": "Primary",
+    "status": "probe_ok",
+    "message": "Primary probe ok 1/2",
+    "latency_ms": 10.596000007353723
+  },
+  {
+    "timestamp": "2025-11-10 20:27:50",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 24.95729993097484
+  },
+  {
+    "timestamp": "2025-11-10 20:27:52",
+    "active_server": "Primary",
+    "status": "probe_ok",
+    "message": "Primary probe ok 2/2",
+    "latency_ms": 12.456599972210824
+  },
+  {
+    "timestamp": "2025-11-10 20:27:52",
+    "active_server": "Primary",
+    "status": "recovery",
+    "message": "Primary healthy \u2014 rolling back",
+    "latency_ms": 12.456599972210824
+  },
+  {
+    "timestamp": "2025-11-10 20:27:52",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.456599972210824
+  },
+  {
+    "timestamp": "2025-11-10 20:27:54",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.005799993872643
+  },
+  {
+    "timestamp": "2025-11-10 20:27:56",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 4.2573000537231565
+  },
+  {
+    "timestamp": "2025-11-10 20:27:58",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 4.321299958974123
+  },
+  {
+    "timestamp": "2025-11-10 20:28:00",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.598299998790026
+  },
+  {
+    "timestamp": "2025-11-10 20:28:02",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 20.464800065383315
+  },
+  {
+    "timestamp": "2025-11-10 20:28:04",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.241499959491193
+  },
+  {
+    "timestamp": "2025-11-10 20:28:06",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 20.911799976602197
+  },
+  {
+    "timestamp": "2025-11-10 20:28:08",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.26829998753965
+  },
+  {
+    "timestamp": "2025-11-10 20:28:10",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 17.95859995763749
+  },
+  {
+    "timestamp": "2025-11-10 20:28:12",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 3.8752000546082854
+  },
+  {
+    "timestamp": "2025-11-10 20:28:14",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 3.9948999183252454
+  },
+  {
+    "timestamp": "2025-11-10 20:33:24",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 36.935699987225235
+  },
+  {
+    "timestamp": "2025-11-10 20:33:26",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.244999952614307
+  },
+  {
+    "timestamp": "2025-11-10 20:33:28",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.600100017152727
+  },
+  {
+    "timestamp": "2025-11-10 20:33:30",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 9.949199971742928
+  },
+  {
+    "timestamp": "2025-11-10 20:33:32",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 4.156299983151257
+  },
+  {
+    "timestamp": "2025-11-10 20:33:34",
+    "active_server": "Primary",
+    "status": "error",
+    "message": "Unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 13.994700042530894
+  },
+  {
+    "timestamp": "2025-11-10 20:33:34",
+    "active_server": "Backup",
+    "status": "failover",
+    "message": "Switch from Primary to Backup",
+    "latency_ms": 14.114700024947524
+  },
+  {
+    "timestamp": "2025-11-10 20:33:34",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 14.114700024947524
+  },
+  {
+    "timestamp": "2025-11-10 20:33:36",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 6.149700027890503
+  },
+  {
+    "timestamp": "2025-11-10 20:33:36",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.455599959939718
+  },
+  {
+    "timestamp": "2025-11-10 20:33:38",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.947199935093522
+  },
+  {
+    "timestamp": "2025-11-10 20:33:38",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 6.003800081089139
+  },
+  {
+    "timestamp": "2025-11-10 20:33:40",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 20.664599956944585
+  },
+  {
+    "timestamp": "2025-11-10 20:33:40",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 6.538099958561361
+  },
+  {
+    "timestamp": "2025-11-10 20:33:42",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 4.341299994848669
+  },
+  {
+    "timestamp": "2025-11-10 20:33:42",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 3.5616999957710505
+  },
+  {
+    "timestamp": "2025-11-10 20:33:44",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 36.88169992528856
+  },
+  {
+    "timestamp": "2025-11-10 20:33:44",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 29.755999916233122
+  },
+  {
+    "timestamp": "2025-11-10 20:33:47",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.219700099900365
+  },
+  {
+    "timestamp": "2025-11-10 20:33:47",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.57969999499619
+  },
+  {
+    "timestamp": "2025-11-10 20:33:49",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.244500055909157
+  },
+  {
+    "timestamp": "2025-11-10 20:33:49",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.743999948725104
+  },
+  {
+    "timestamp": "2025-11-10 20:33:51",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.66009996086359
+  },
+  {
+    "timestamp": "2025-11-10 20:33:51",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.03139996342361
+  },
+  {
+    "timestamp": "2025-11-10 20:33:53",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 9.409100050106645
+  },
+  {
+    "timestamp": "2025-11-10 20:33:53",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.848600063472986
+  },
+  {
+    "timestamp": "2025-11-10 20:33:55",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 36.99990001041442
+  },
+  {
+    "timestamp": "2025-11-10 20:33:55",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.900299991481006
+  },
+  {
+    "timestamp": "2025-11-10 20:33:57",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.702600051648915
+  },
+  {
+    "timestamp": "2025-11-10 20:33:57",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 6.478700088337064
+  },
+  {
+    "timestamp": "2025-11-10 20:33:59",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.291799993254244
+  },
+  {
+    "timestamp": "2025-11-10 20:33:59",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.75600000936538
+  },
+  {
+    "timestamp": "2025-11-10 20:34:01",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 21.6858999338001
+  },
+  {
+    "timestamp": "2025-11-10 20:34:01",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 13.01279990002513
+  },
+  {
+    "timestamp": "2025-11-10 20:34:01",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-10 20:34:03",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.096500019542873
+  },
+  {
+    "timestamp": "2025-11-10 20:34:03",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 4.4797000009566545
+  },
+  {
+    "timestamp": "2025-11-10 20:34:03",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-10 20:34:05",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 10.916800005361438
+  },
+  {
+    "timestamp": "2025-11-10 20:34:05",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.318400100804865
+  },
+  {
+    "timestamp": "2025-11-10 20:34:05",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-10 20:34:07",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 22.2267999779433
+  },
+  {
+    "timestamp": "2025-11-10 20:34:07",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 22.63889997266233
+  },
+  {
+    "timestamp": "2025-11-10 20:34:10",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 6.03299995418638
+  },
+  {
+    "timestamp": "2025-11-10 20:34:10",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 8.656100020743906
+  },
+  {
+    "timestamp": "2025-11-10 20:34:12",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 10.663699940778315
+  },
+  {
+    "timestamp": "2025-11-10 20:34:12",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 9.958299924619496
+  },
+  {
+    "timestamp": "2025-11-10 20:34:14",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 4.47739998344332
+  },
+  {
+    "timestamp": "2025-11-10 20:34:14",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.1929999608546495
+  },
+  {
+    "timestamp": "2025-11-10 20:34:16",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.583900079131126
+  },
+  {
+    "timestamp": "2025-11-10 20:34:16",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 3.979800036177039
+  },
+  {
+    "timestamp": "2025-11-10 20:34:18",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 26.97120001539588
+  },
+  {
+    "timestamp": "2025-11-10 20:34:18",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 10.693400050513446
+  },
+  {
+    "timestamp": "2025-11-10 20:34:20",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.445200070738792
+  },
+  {
+    "timestamp": "2025-11-10 20:34:20",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 7.509599905461073
+  },
+  {
+    "timestamp": "2025-11-10 20:34:22",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 10.561099974438548
+  },
+  {
+    "timestamp": "2025-11-10 20:34:22",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.20919996779412
+  },
+  {
+    "timestamp": "2025-11-10 20:34:24",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 9.623799938708544
+  },
+  {
+    "timestamp": "2025-11-10 20:34:24",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 3.5949000157415867
+  },
+  {
+    "timestamp": "2025-11-10 20:34:26",
+    "active_server": "Primary",
+    "status": "probe_ok",
+    "message": "Primary probe ok 1/2",
+    "latency_ms": 21.372499992139637
+  },
+  {
+    "timestamp": "2025-11-10 20:34:26",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 20.31620009802282
+  },
+  {
+    "timestamp": "2025-11-10 20:34:28",
+    "active_server": "Primary",
+    "status": "probe_ok",
+    "message": "Primary probe ok 2/2",
+    "latency_ms": 7.216099998913705
+  },
+  {
+    "timestamp": "2025-11-10 20:34:28",
+    "active_server": "Primary",
+    "status": "recovery",
+    "message": "Primary healthy \u2014 rolling back",
+    "latency_ms": 7.216099998913705
+  },
+  {
+    "timestamp": "2025-11-10 20:34:28",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.216099998913705
+  },
+  {
+    "timestamp": "2025-11-10 20:34:30",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.253100014291704
+  },
+  {
+    "timestamp": "2025-11-10 20:34:32",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.599099962040782
+  },
+  {
+    "timestamp": "2025-11-10 20:34:35",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 27.904100017622113
+  },
+  {
+    "timestamp": "2025-11-10 20:34:37",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.204699985682964
+  },
+  {
+    "timestamp": "2025-11-10 20:34:39",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.045799949206412
+  },
+  {
+    "timestamp": "2025-11-10 20:34:41",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 56.62069993559271
+  },
+  {
+    "timestamp": "2025-11-10 20:34:43",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 17.378299962729216
+  },
+  {
+    "timestamp": "2025-11-10 20:34:45",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.497200010344386
+  },
+  {
+    "timestamp": "2025-11-10 20:34:47",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.98229997884482
+  },
+  {
+    "timestamp": "2025-11-10 20:34:49",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 13.26469995547086
+  },
+  {
+    "timestamp": "2025-11-10 20:34:51",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 27.787899947725236
+  },
+  {
+    "timestamp": "2025-11-10 20:34:53",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 28.132400009781122
+  },
+  {
+    "timestamp": "2025-11-10 20:34:55",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 38.24489994440228
+  },
+  {
+    "timestamp": "2025-11-10 20:34:57",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.871499988250434
+  },
+  {
+    "timestamp": "2025-11-10 20:34:59",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.190900039859116
+  },
+  {
+    "timestamp": "2025-11-10 20:35:01",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.464599994942546
+  },
+  {
+    "timestamp": "2025-11-10 20:35:04",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 23.66099995560944
+  },
+  {
+    "timestamp": "2025-11-10 20:35:06",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.562699917703867
+  },
+  {
+    "timestamp": "2025-11-10 20:35:08",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.042000074870884
+  },
+  {
+    "timestamp": "2025-11-10 20:35:10",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.16769994609058
+  },
+  {
+    "timestamp": "2025-11-10 20:35:12",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 27.680400060489774
+  },
+  {
+    "timestamp": "2025-11-10 20:35:14",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.15250003710389
+  },
+  {
+    "timestamp": "2025-11-10 20:35:16",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.85859995894134
+  },
+  {
+    "timestamp": "2025-11-10 20:35:18",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.39009992685169
+  },
+  {
+    "timestamp": "2025-11-10 20:35:20",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 6.647900096140802
+  },
+  {
+    "timestamp": "2025-11-10 20:35:22",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 6.015300052240491
+  },
+  {
+    "timestamp": "2025-11-16 18:25:23",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 117.23420000635087
+  },
+  {
+    "timestamp": "2025-11-16 18:25:25",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.288699857890606
+  },
+  {
+    "timestamp": "2025-11-16 18:25:27",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.490099994465709
+  },
+  {
+    "timestamp": "2025-11-16 18:25:29",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 13.4958999697119
+  },
+  {
+    "timestamp": "2025-11-16 18:25:31",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 5.8946998324245214
+  },
+  {
+    "timestamp": "2025-11-16 18:25:33",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.224600004032254
+  },
+  {
+    "timestamp": "2025-11-16 18:25:35",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 5.9710000641644
+  },
+  {
+    "timestamp": "2025-11-16 18:25:37",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.483600130304694
+  },
+  {
+    "timestamp": "2025-11-16 18:25:39",
+    "active_server": "Primary",
+    "status": "error",
+    "message": "Unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 14.722799882292747
+  },
+  {
+    "timestamp": "2025-11-16 18:25:40",
+    "active_server": "Backup",
+    "status": "failover",
+    "message": "Switch from Primary to Backup",
+    "latency_ms": 31.49459999985993
+  },
+  {
+    "timestamp": "2025-11-16 18:25:40",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 31.49459999985993
+  },
+  {
+    "timestamp": "2025-11-16 18:25:42",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 26.37229999527335
+  },
+  {
+    "timestamp": "2025-11-16 18:25:42",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 18.670900026336312
+  },
+  {
+    "timestamp": "2025-11-16 18:25:44",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 14.589500147849321
+  },
+  {
+    "timestamp": "2025-11-16 18:25:44",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 14.824300073087215
+  },
+  {
+    "timestamp": "2025-11-16 18:25:46",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 28.401500079780817
+  },
+  {
+    "timestamp": "2025-11-16 18:25:46",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 11.078499956056476
+  },
+  {
+    "timestamp": "2025-11-16 18:25:48",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 16.741399886086583
+  },
+  {
+    "timestamp": "2025-11-16 18:25:48",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 31.8958000279963
+  },
+  {
+    "timestamp": "2025-11-16 18:25:50",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 29.03029997833073
+  },
+  {
+    "timestamp": "2025-11-16 18:25:51",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.131100054830313
+  },
+  {
+    "timestamp": "2025-11-16 18:25:53",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 23.0016999412328
+  },
+  {
+    "timestamp": "2025-11-16 18:25:53",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 24.387399898841977
+  },
+  {
+    "timestamp": "2025-11-16 18:25:55",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 28.054499998688698
+  },
+  {
+    "timestamp": "2025-11-16 18:25:55",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 27.54630008712411
+  },
+  {
+    "timestamp": "2025-11-16 18:25:57",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 27.72260014899075
+  },
+  {
+    "timestamp": "2025-11-16 18:25:57",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.384000001475215
+  },
+  {
+    "timestamp": "2025-11-16 18:25:59",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 28.507799841463566
+  },
+  {
+    "timestamp": "2025-11-16 18:25:59",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 32.49350003898144
+  },
+  {
+    "timestamp": "2025-11-16 18:26:01",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 16.69970015063882
+  },
+  {
+    "timestamp": "2025-11-16 18:26:01",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 23.02239998243749
+  },
+  {
+    "timestamp": "2025-11-16 18:26:03",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 27.124900138005614
+  },
+  {
+    "timestamp": "2025-11-16 18:26:03",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 9.136599954217672
+  },
+  {
+    "timestamp": "2025-11-16 18:26:06",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 8.979300037026405
+  },
+  {
+    "timestamp": "2025-11-16 18:26:06",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 6.800099974498153
+  },
+  {
+    "timestamp": "2025-11-16 18:26:08",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.383800111711025
+  },
+  {
+    "timestamp": "2025-11-16 18:26:08",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.009500129148364
+  },
+  {
+    "timestamp": "2025-11-16 18:26:08",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-16 18:26:10",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 22.14430016465485
+  },
+  {
+    "timestamp": "2025-11-16 18:26:10",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 14.788199914619327
+  },
+  {
+    "timestamp": "2025-11-16 18:26:10",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-16 18:26:12",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 9.529800154268742
+  },
+  {
+    "timestamp": "2025-11-16 18:26:12",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.455499842762947
+  },
+  {
+    "timestamp": "2025-11-16 18:26:12",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-16 18:26:15",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 368.17300016991794
+  },
+  {
+    "timestamp": "2025-11-16 18:26:15",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 27.62169996276498
+  },
+  {
+    "timestamp": "2025-11-16 18:26:17",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 45.40349985472858
+  },
+  {
+    "timestamp": "2025-11-16 18:26:17",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 210.5829999782145
+  },
+  {
+    "timestamp": "2025-11-16 18:26:19",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 13.060999801382422
+  },
+  {
+    "timestamp": "2025-11-16 18:26:19",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 10.867400094866753
+  },
+  {
+    "timestamp": "2025-11-16 18:26:22",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 8.687300141900778
+  },
+  {
+    "timestamp": "2025-11-16 18:26:22",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 6.187699967995286
+  },
+  {
+    "timestamp": "2025-11-16 18:26:24",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 17.280600033700466
+  },
+  {
+    "timestamp": "2025-11-16 18:26:24",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 8.09410004876554
+  },
+  {
+    "timestamp": "2025-11-16 18:26:26",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 10.252899955958128
+  },
+  {
+    "timestamp": "2025-11-16 18:26:26",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 11.071000015363097
+  },
+  {
+    "timestamp": "2025-11-16 18:26:28",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 24.633399909362197
+  },
+  {
+    "timestamp": "2025-11-16 18:26:28",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 8.910699980333447
+  },
+  {
+    "timestamp": "2025-11-16 18:26:30",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.257499964907765
+  },
+  {
+    "timestamp": "2025-11-16 18:26:30",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 26.734499959275126
+  },
+  {
+    "timestamp": "2025-11-16 18:26:32",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 27.727700071409345
+  },
+  {
+    "timestamp": "2025-11-16 18:26:32",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.946699978783727
+  },
+  {
+    "timestamp": "2025-11-16 18:26:34",
+    "active_server": "Primary",
+    "status": "probe_ok",
+    "message": "Primary probe ok 1/2",
+    "latency_ms": 15.61439991928637
+  },
+  {
+    "timestamp": "2025-11-16 18:26:34",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.159899825230241
+  },
+  {
+    "timestamp": "2025-11-16 18:26:36",
+    "active_server": "Primary",
+    "status": "probe_ok",
+    "message": "Primary probe ok 2/2",
+    "latency_ms": 16.941200010478497
+  },
+  {
+    "timestamp": "2025-11-16 18:26:36",
+    "active_server": "Primary",
+    "status": "recovery",
+    "message": "Primary healthy \u2014 rolling back",
+    "latency_ms": 16.941200010478497
+  },
+  {
+    "timestamp": "2025-11-16 18:26:36",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 16.941200010478497
+  },
+  {
+    "timestamp": "2025-11-16 18:26:38",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 29.264899902045727
+  },
+  {
+    "timestamp": "2025-11-16 18:26:41",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.84180004708469
+  },
+  {
+    "timestamp": "2025-11-16 18:26:43",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.501900153234601
+  },
+  {
+    "timestamp": "2025-11-16 18:26:45",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 28.444600058719516
+  },
+  {
+    "timestamp": "2025-11-17 10:22:27",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 99.1652999073267
+  },
+  {
+    "timestamp": "2025-11-17 10:22:30",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 8.17849999293685
+  },
+  {
+    "timestamp": "2025-11-17 10:22:32",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 4.654400050640106
+  },
+  {
+    "timestamp": "2025-11-17 10:22:34",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 13.095099944621325
+  },
+  {
+    "timestamp": "2025-11-17 10:22:36",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 21.668699802830815
+  },
+  {
+    "timestamp": "2025-11-17 10:22:38",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 16.89349999651313
+  },
+  {
+    "timestamp": "2025-11-17 10:22:40",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 5.193200195208192
+  },
+  {
+    "timestamp": "2025-11-17 10:22:42",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 4.545800155028701
+  },
+  {
+    "timestamp": "2025-11-17 10:22:44",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 10.616699932143092
+  },
+  {
+    "timestamp": "2025-11-17 10:22:47",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.013799976557493
+  },
+  {
+    "timestamp": "2025-11-17 10:22:53",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 1365.9898000769317
+  },
+  {
+    "timestamp": "2025-11-17 10:22:55",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 150.7532000541687
+  },
+  {
+    "timestamp": "2025-11-17 10:22:57",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 159.2389999423176
+  },
+  {
+    "timestamp": "2025-11-17 10:23:00",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 435.41650008410215
+  },
+  {
+    "timestamp": "2025-11-17 10:23:03",
+    "active_server": "Primary",
+    "status": "error",
+    "message": "Unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 252.29369988664985
+  },
+  {
+    "timestamp": "2025-11-17 10:23:03",
+    "active_server": "Backup",
+    "status": "failover",
+    "message": "Switch from Primary to Backup",
+    "latency_ms": 362.5020000617951
+  },
+  {
+    "timestamp": "2025-11-17 10:23:03",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 362.5020000617951
+  },
+  {
+    "timestamp": "2025-11-17 10:23:06",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 26.380599942058325
+  },
+  {
+    "timestamp": "2025-11-17 10:23:06",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 141.71390002593398
+  },
+  {
+    "timestamp": "2025-11-17 10:23:08",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 122.89500003680587
+  },
+  {
+    "timestamp": "2025-11-17 10:23:08",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 74.41819994710386
+  },
+  {
+    "timestamp": "2025-11-17 10:23:11",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 54.23310003243387
+  },
+  {
+    "timestamp": "2025-11-17 10:23:11",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 76.93310012109578
+  },
+  {
+    "timestamp": "2025-11-17 10:23:13",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 48.19290013983846
+  },
+  {
+    "timestamp": "2025-11-17 10:23:13",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 11.409000027924776
+  },
+  {
+    "timestamp": "2025-11-17 10:23:15",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.665400065481663
+  },
+  {
+    "timestamp": "2025-11-17 10:23:15",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.8778999373316765
+  },
+  {
+    "timestamp": "2025-11-17 10:23:17",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.564599996432662
+  },
+  {
+    "timestamp": "2025-11-17 10:23:17",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.834900075569749
+  },
+  {
+    "timestamp": "2025-11-17 10:23:19",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 4.7027000691741705
+  },
+  {
+    "timestamp": "2025-11-17 10:23:19",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.034300033003092
+  },
+  {
+    "timestamp": "2025-11-17 10:23:21",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.292600020766258
+  },
+  {
+    "timestamp": "2025-11-17 10:23:21",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.698399920016527
+  },
+  {
+    "timestamp": "2025-11-17 10:23:23",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 6.647499976679683
+  },
+  {
+    "timestamp": "2025-11-17 10:23:23",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 6.238000001758337
+  },
+  {
+    "timestamp": "2025-11-17 10:23:25",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 6.300200009718537
+  },
+  {
+    "timestamp": "2025-11-17 10:23:25",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.169200012460351
+  },
+  {
+    "timestamp": "2025-11-17 10:23:27",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 18.852399894967675
+  },
+  {
+    "timestamp": "2025-11-17 10:23:27",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.138300195336342
+  },
+  {
+    "timestamp": "2025-11-17 10:23:29",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 10.667999973520637
+  },
+  {
+    "timestamp": "2025-11-17 10:23:29",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.231400020420551
+  },
+  {
+    "timestamp": "2025-11-17 10:23:32",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 48.32900012843311
+  },
+  {
+    "timestamp": "2025-11-17 10:23:32",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 56.404100032523274
+  },
+  {
+    "timestamp": "2025-11-17 10:23:32",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-17 10:23:34",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 8.797999937087297
+  },
+  {
+    "timestamp": "2025-11-17 10:23:34",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 88.0660000257194
+  },
+  {
+    "timestamp": "2025-11-17 10:23:34",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-17 10:23:37",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 147.78409991413355
+  },
+  {
+    "timestamp": "2025-11-17 10:23:37",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 202.40600011311471
+  },
+  {
+    "timestamp": "2025-11-17 10:23:39",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.7496000081300735
+  },
+  {
+    "timestamp": "2025-11-17 10:23:39",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.215899785980582
+  },
+  {
+    "timestamp": "2025-11-17 10:23:41",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 4.570799879729748
+  },
+  {
+    "timestamp": "2025-11-17 10:23:42",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.421800073236227
+  },
+  {
+    "timestamp": "2025-11-17 10:23:44",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 6.068599876016378
+  },
+  {
+    "timestamp": "2025-11-17 10:23:44",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 6.157599855214357
+  },
+  {
+    "timestamp": "2025-11-17 10:23:46",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 6.694499868899584
+  },
+  {
+    "timestamp": "2025-11-17 10:23:46",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.99760003387928
+  },
+  {
+    "timestamp": "2025-11-17 10:23:48",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.93110010959208
+  },
+  {
+    "timestamp": "2025-11-17 10:23:48",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.33369998447597
+  },
+  {
+    "timestamp": "2025-11-17 10:23:50",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 6.204099860042334
+  },
+  {
+    "timestamp": "2025-11-17 10:23:50",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.462599918246269
+  },
+  {
+    "timestamp": "2025-11-17 10:23:52",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.999099928885698
+  },
+  {
+    "timestamp": "2025-11-17 10:23:52",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 6.190499989315867
+  },
+  {
+    "timestamp": "2025-11-17 10:23:54",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 17.98209990374744
+  },
+  {
+    "timestamp": "2025-11-17 10:23:54",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.124599974602461
+  },
+  {
+    "timestamp": "2025-11-17 10:23:56",
+    "active_server": "Primary",
+    "status": "probe_ok",
+    "message": "Primary probe ok 1/2",
+    "latency_ms": 10.685499990358949
+  },
+  {
+    "timestamp": "2025-11-17 10:23:56",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 17.06390012986958
+  },
+  {
+    "timestamp": "2025-11-17 10:23:58",
+    "active_server": "Primary",
+    "status": "probe_ok",
+    "message": "Primary probe ok 2/2",
+    "latency_ms": 20.65510000102222
+  },
+  {
+    "timestamp": "2025-11-17 10:23:58",
+    "active_server": "Primary",
+    "status": "recovery",
+    "message": "Primary healthy \u2014 rolling back",
+    "latency_ms": 20.65510000102222
+  },
+  {
+    "timestamp": "2025-11-17 10:23:58",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 20.65510000102222
+  },
+  {
+    "timestamp": "2025-11-17 10:24:00",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 10.828900150954723
+  },
+  {
+    "timestamp": "2025-11-17 10:24:02",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.575199939310551
+  },
+  {
+    "timestamp": "2025-11-17 10:24:04",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.27880018390715
+  },
+  {
+    "timestamp": "2025-11-17 10:24:06",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.281400030478835
+  },
+  {
+    "timestamp": "2025-11-17 10:24:08",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.240999955683947
+  },
+  {
+    "timestamp": "2025-11-17 10:24:10",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.742899935692549
+  },
+  {
+    "timestamp": "2025-11-17 12:32:47",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 82.69249997101724
+  },
+  {
+    "timestamp": "2025-11-17 12:32:49",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 10.981400031596422
+  },
+  {
+    "timestamp": "2025-11-17 12:32:51",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 51.60979996435344
+  },
+  {
+    "timestamp": "2025-11-17 12:32:53",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.205000035464764
+  },
+  {
+    "timestamp": "2025-11-17 12:32:56",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.88519992865622
+  },
+  {
+    "timestamp": "2025-11-17 12:32:58",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 23.00180005840957
+  },
+  {
+    "timestamp": "2025-11-17 12:33:00",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.736199958249927
+  },
+  {
+    "timestamp": "2025-11-17 12:33:02",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 9.179699933156371
+  },
+  {
+    "timestamp": "2025-11-17 12:33:04",
+    "active_server": "Primary",
+    "status": "error",
+    "message": "Unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 9.636899922043085
+  },
+  {
+    "timestamp": "2025-11-17 12:33:04",
+    "active_server": "Backup",
+    "status": "failover",
+    "message": "Switch from Primary to Backup",
+    "latency_ms": 79.49320017360151
+  },
+  {
+    "timestamp": "2025-11-17 12:33:04",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 79.49320017360151
+  },
+  {
+    "timestamp": "2025-11-17 12:33:06",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 20.546399988234043
+  },
+  {
+    "timestamp": "2025-11-17 12:33:06",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 8.80519999191165
+  },
+  {
+    "timestamp": "2025-11-17 12:33:08",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 13.492400059476495
+  },
+  {
+    "timestamp": "2025-11-17 12:33:08",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 26.48990019224584
+  },
+  {
+    "timestamp": "2025-11-17 12:33:11",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 14.29910003207624
+  },
+  {
+    "timestamp": "2025-11-17 12:33:11",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 14.77460004389286
+  },
+  {
+    "timestamp": "2025-11-17 12:33:13",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 65.80650014802814
+  },
+  {
+    "timestamp": "2025-11-17 12:33:13",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 29.653099831193686
+  },
+  {
+    "timestamp": "2025-11-17 12:33:15",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 9.18480008840561
+  },
+  {
+    "timestamp": "2025-11-17 12:33:15",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 28.566099936142564
+  },
+  {
+    "timestamp": "2025-11-17 12:33:17",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 23.235700093209743
+  },
+  {
+    "timestamp": "2025-11-17 12:33:17",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 19.096900010481477
+  },
+  {
+    "timestamp": "2025-11-17 12:33:19",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 12.622999958693981
+  },
+  {
+    "timestamp": "2025-11-17 12:33:19",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 33.38869987055659
+  },
+  {
+    "timestamp": "2025-11-17 12:33:24",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 13.551600044593215
+  },
+  {
+    "timestamp": "2025-11-17 12:33:24",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.795200105756521
+  },
+  {
+    "timestamp": "2025-11-17 12:33:26",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 8.463099831715226
+  },
+  {
+    "timestamp": "2025-11-17 12:33:26",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 13.394099893048406
+  },
+  {
+    "timestamp": "2025-11-17 12:33:28",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 16.51450013741851
+  },
+  {
+    "timestamp": "2025-11-17 12:33:28",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 40.68200010806322
+  },
+  {
+    "timestamp": "2025-11-17 12:33:30",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 10.833799839019775
+  },
+  {
+    "timestamp": "2025-11-17 12:33:30",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 11.16100000217557
+  },
+  {
+    "timestamp": "2025-11-17 12:33:32",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.231400072574615
+  },
+  {
+    "timestamp": "2025-11-17 12:33:32",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 28.898899909108877
+  },
+  {
+    "timestamp": "2025-11-17 12:33:33",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-17 12:33:35",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 12.12390000000596
+  },
+  {
+    "timestamp": "2025-11-17 12:33:35",
+    "active_server": "Backup",
+    "status": "error",
+    "message": "Backup unhealthy: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 30.269799986854196
+  },
+  {
+    "timestamp": "2025-11-17 12:33:35",
+    "active_server": "None",
+    "status": "error",
+    "message": "Both down while on backup. backup: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}; primary: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2025-11-17 12:33:37",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 16.452300129458308
+  },
+  {
+    "timestamp": "2025-11-17 12:33:37",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.281799921765924
+  },
+  {
+    "timestamp": "2025-11-17 12:33:40",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.070800013840199
+  },
+  {
+    "timestamp": "2025-11-17 12:33:40",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 12.55510002374649
+  },
+  {
+    "timestamp": "2025-11-17 12:33:42",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 12.055999832227826
+  },
+  {
+    "timestamp": "2025-11-17 12:33:43",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 14.673300087451935
+  },
+  {
+    "timestamp": "2025-11-17 12:33:45",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 40.80149997025728
+  },
+  {
+    "timestamp": "2025-11-17 12:33:45",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 13.128099963068962
+  },
+  {
+    "timestamp": "2025-11-17 12:33:47",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 42.083000065758824
+  },
+  {
+    "timestamp": "2025-11-17 12:33:47",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 32.66840009018779
+  },
+  {
+    "timestamp": "2025-11-17 12:33:49",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 5.256599979475141
+  },
+  {
+    "timestamp": "2025-11-17 12:33:49",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 4.691099980846047
+  },
+  {
+    "timestamp": "2025-11-17 12:33:51",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 7.078199880197644
+  },
+  {
+    "timestamp": "2025-11-17 12:33:51",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 5.941600073128939
+  },
+  {
+    "timestamp": "2025-11-17 12:33:53",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 11.520300060510635
+  },
+  {
+    "timestamp": "2025-11-17 12:33:53",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 10.023099835962057
+  },
+  {
+    "timestamp": "2025-11-17 12:33:56",
+    "active_server": "Primary",
+    "status": "probe_fail",
+    "message": "Primary probe fail: {'status_code': 503, 'body': '{\"error\":\"service disabled\"}'}",
+    "latency_ms": 12.012899853289127
+  },
+  {
+    "timestamp": "2025-11-17 12:33:56",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 11.21130003593862
+  },
+  {
+    "timestamp": "2025-11-17 12:33:58",
+    "active_server": "Primary",
+    "status": "probe_ok",
+    "message": "Primary probe ok 1/2",
+    "latency_ms": 12.109699891880155
+  },
+  {
+    "timestamp": "2025-11-17 12:33:58",
+    "active_server": "Backup",
+    "status": "running",
+    "message": "OK: {'server': 'BACKUP Cloud B', 'status': 'running'}",
+    "latency_ms": 13.556100195273757
+  },
+  {
+    "timestamp": "2025-11-17 12:34:03",
+    "active_server": "Primary",
+    "status": "probe_ok",
+    "message": "Primary probe ok 2/2",
+    "latency_ms": 12.575099943205714
+  },
+  {
+    "timestamp": "2025-11-17 12:34:03",
+    "active_server": "Primary",
+    "status": "recovery",
+    "message": "Primary healthy \u2014 rolling back",
+    "latency_ms": 12.575099943205714
+  },
+  {
+    "timestamp": "2025-11-17 12:34:03",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.575099943205714
+  },
+  {
+    "timestamp": "2025-11-17 12:34:05",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 18.957699881866574
+  },
+  {
+    "timestamp": "2025-11-17 12:34:07",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.530999956652522
+  },
+  {
+    "timestamp": "2025-11-17 12:34:09",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 9.272800059989095
+  },
+  {
+    "timestamp": "2025-11-17 12:34:11",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 53.01360017620027
+  },
+  {
+    "timestamp": "2025-11-17 12:34:13",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.661899974569678
+  },
+  {
+    "timestamp": "2025-11-17 12:34:15",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 27.412000112235546
+  },
+  {
+    "timestamp": "2025-11-17 12:34:17",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.247700080275536
+  },
+  {
+    "timestamp": "2025-11-17 12:34:19",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 12.928199954330921
+  },
+  {
+    "timestamp": "2025-11-17 12:34:22",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 29.337699990719557
+  },
+  {
+    "timestamp": "2025-11-17 12:34:24",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 11.096699861809611
+  },
+  {
+    "timestamp": "2025-11-17 12:34:26",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 7.519700098782778
+  },
+  {
+    "timestamp": "2025-11-17 12:34:28",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 48.21989987976849
+  },
+  {
+    "timestamp": "2025-11-17 12:34:30",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 37.620700197294354
+  },
+  {
+    "timestamp": "2025-11-17 12:34:32",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 16.225399915128946
+  },
+  {
+    "timestamp": "2025-11-17 12:34:34",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 20.62270021997392
+  },
+  {
+    "timestamp": "2025-11-17 12:34:36",
+    "active_server": "Primary",
+    "status": "running",
+    "message": "OK: {'server': 'Primary Cloud A', 'status': 'running'}",
+    "latency_ms": 16.799400094896555
+  }
+]
