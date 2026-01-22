@@ -68,7 +68,7 @@ CPU saturation
 Sequential multi-failure scenarios
 Attack scenarios are defined in attacks.json, enabling reproducible experiments.
 
-📊 Metrics & Evaluation
+Metrics & Evaluation
 The system evaluates resilience using:
 Metric	Description
 MTTR	Mean Time To Recovery after failure
@@ -90,7 +90,7 @@ Reduced downtime vs traditional systems
 Lower cost than always-on backup architectures
 Exact results vary depending on injected attack severity.
 
-🔍 Why This Project Matters
+Why This Project Matters
 Modern cloud-hosted systems (LLMs, APIs, inference engines) require:
 High availability
 Fast recovery
